@@ -18,12 +18,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shreya Davhale</h1>
 <h3 align="center">A passionate frontend,backend developer</h3>
 
+
+<p align="center">
+    <img alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya5xiii&label=Profile%20views&color=0e75b6&style=flat" alt="shreya5xiii" /> </p>
-<img  alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg">
 
-- 🌱 I’m currently learning **AWS,Hadoop,C Socket**
+- 🌱 I’m currently learning **AWS, Hadoop, C Socket**<br>
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/shreya5xiii)
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/shreya5xiii)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
