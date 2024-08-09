@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **AWS,Hadoop,C Socket**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shreya5xiii/shreya5xiii](shreya5xiii)
+- 👨‍💻 All of my projects are available at [https://github.com/shreya5xiii](shreya5xiii)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
