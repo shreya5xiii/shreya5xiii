@@ -14,16 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Shreya Davhale</h1>
 <h3 align="center">A passionate frontend,backend developer</h3>
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya5xiii&label=Profile%20views&color=0e75b6&style=flat" alt="shreya5xiii" /> </p>
+<img  alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg">
 
 - 🌱 I’m currently learning **AWS,Hadoop,C Socket**
+
+- 👨‍💻 All of my projects are available at [shreya5xiii](shreya5xiii)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//shreya-davhale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/shreya-davhale/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shreya5xiii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreya5xiii/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
