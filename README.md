@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Shreya Davhale</h1>
+<h1 align="center" >Hi 👋, I'm Shreya Davhale</h1>
+
 <h3 align="center">A passionate frontend,backend developer</h3>
 
 
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **AWS, Hadoop, C Socket**<br>
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/shreya5xiii)
-
+- 🔭I’m interested in Softwares and Programming
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
