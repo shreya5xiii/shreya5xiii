@@ -22,6 +22,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in//shreya-davhale/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shreya5xiii/)
+[![Coding Ninja Profile](https://img.shields.io/badge/CodingNinjas-%23FF5722.svg?style=for-the-badge&logo=codeigniter&logoColor=white)](https://www.naukri.com/code360/profile/139e10e1-9148-45a6-bd98-595b4963c752)
 
 ---
 
