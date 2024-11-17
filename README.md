@@ -11,7 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=shreya5xiii&label=Profile%20views&color=0e75b6&style=flat" alt="shreya5xiii" />
 </p>
 
-- 🌱 I’m currently learning **AWS, Hadoop, C Socket** <br>
+- 🌱 I’m currently learning **more about Web Development** <br>
 - 🔭 I’m currently working on real-life projects. <br>
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/shreya5xiii) <br>
 - 🔍 I’m currently learning **DSA (Data Structures and Algorithms)**
